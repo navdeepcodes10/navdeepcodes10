@@ -1,4 +1,4 @@
-# Hi, I'm Navdeep Singh 👋
+# Hi, I'm Navdeep
 
 🎓 B.Tech CSE Student
 
