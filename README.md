@@ -13,7 +13,6 @@
 - 📱 **Cross-Platform Mobile App:** Built with **Flutter** & **Riverpod** state management.
 - ⚡ **Real-Time Backend:** Powered by **Supabase (PostgreSQL)** with Row Level Security (RLS) & RPCs.
 - 📍 **Ground Radar:** Real-time Google Maps GPS navigation to tournament grounds across India.
-- 🔄 **In-App OTA Updates:** Custom chunk-streamed background APK updater with native package installer handoff.
 - 🏆 **Verified Tournaments:** Automated weight-category filtering and certified cash prize pool tracking.
 
 ---
