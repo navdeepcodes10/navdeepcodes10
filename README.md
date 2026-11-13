@@ -61,15 +61,6 @@
 
 ---
 
-### 📊 GitHub Activity & Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=navdeepcodes10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0E0B1D&title_color=8B7CC7&icon_color=FFD700" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navdeepcodes10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0E0B1D&title_color=8B7CC7" height="150" />
-</div>
-
----
-
 ### 📬 Get In Touch
 
 <p align="center">
